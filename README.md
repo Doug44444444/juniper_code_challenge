@@ -12,7 +12,7 @@ browser.
 ###1. The weight of path represents for traffic of the path.
 ###2. The arrow of path represents for packets send from scrObj to destObj.
 ###3. The color of path represents for the percentage of packets/traffic, which means busy rate by sending this packets.
-   ####a. Green when percentage <= 30%.
-   ####b. Yellow when 30% < percentage <=70%.
-   ####c. Red when percentage > 70%.
+   a. Green when percentage <= 30%.
+   b. Yellow when 30% < percentage <=70%.
+   c. Red when percentage > 70%.
 ###4. Highlight of individual nodes by clicking on them, and then make unhighlighted when you double click on them.
